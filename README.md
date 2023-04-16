@@ -1,4 +1,4 @@
-# Password generator
+# 🛡️ Password generator
 ---
 
 _This program was developed using **Python 3.11**_
