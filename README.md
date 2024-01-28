@@ -10,14 +10,14 @@ Explanations about choosing the 'secrets' librairy instead of the 'random' one:
 
 ---
 
-> Random librairy: ❌
+> Random library: ❌
 If you generate an element on a computer previously used to generate another element, you have a small chance to get both the same elements. It **doesn't ensure the safety of the password** because teh "random" generation is based on the seed of the computer.
 ---
 
 What's the difference with 'secrets' then?
 
 ---
-> Secrets librairy: ✅
+> Secrets library: ✅
 We can avoid this using the 'secrets' librairy. It **doesn't take into account the seed** of the computer to generate an element and thus, it ensures the safety of the generated password.
 
 
